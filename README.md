@@ -1,5 +1,6 @@
 # kct-nm
-This file includes various Numerical Methods C/C++ Programs prepared by sakar pd. mainali...
+This repository includes various Numerical Methods C/C++ Programs prepared by sakar pd. mainali ...
+Reference taken from open sources...
 
 TABLE OF CONTENTS
 Topics
@@ -40,7 +41,7 @@ o	Newtons Divided Difference Formula
 o	Cubic Spline Interpolation
 o	Lagrange Interpolation
 
-	•	Curve Fitting: Regression Analysis
+Lab 4	•	Curve Fitting: Regression Analysis
  
 	Least Square Method for linear and non-linear data
 	Linear Regression: 
